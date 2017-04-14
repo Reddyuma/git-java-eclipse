@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<git:git directory="repositoryCloneFolder" verbose="true" settingsRef="git.testing">
+ <git:clone uri="https://github.com/Reddyuma/git-java-eclipse"/>
+ <git:checkout branchName="gitBranch" createBranch="true"/>
+</git:git>
